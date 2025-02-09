@@ -1,0 +1,17 @@
+2025-02-09 13:27:37.149031 - makxoito used fine on makxoito for 500
+2025-02-09 13:28:41.995019 - .defantastico. used fine on .defantastico. for 1000
+2025-02-09 13:29:07.382526 - makxoito used bail on .defantastico. for 500
+2025-02-09 13:29:20.579628 - .defantastico. used fine on makxoito for 400
+2025-02-09 13:29:44.090037 - makxoito used bail on .defantastico. for 500
+2025-02-09 13:34:35.477469 - makxoito used fine: makxoito fined $500
+2025-02-09 13:35:26.789025 - makxoito used bail: makxoito bailed $500
+2025-02-09 13:39:29.002197 - .defantastico. used say: Sent message to general: hii
+2025-02-09 13:46:04.481449 - makxoito used fine: makxoito fined $500 for 'hes gaay'
+2025-02-09 13:46:13.144346 - makxoito used profile: Checked profile of makxoito
+2025-02-09 13:46:35.371159 - makxoito used bail: makxoito bailed $1000
+2025-02-09 13:46:42.947139 - makxoito used profile: Checked profile of makxoito
+2025-02-09 13:46:52.215769 - makxoito used bail: makxoito bailed $400
+2025-02-09 13:47:04.733005 - makxoito used profile: Checked profile of makxoito
+2025-02-09 14:46:10.226292 - makxoito used profile: Checked profile of makxoito
+2025-02-09 15:38:42.505491 - makxoito used fine: makxoito fined $200 for 'gay'
+2025-02-09 15:39:53.753672 - makxoito used bail: makxoito bailed $200
