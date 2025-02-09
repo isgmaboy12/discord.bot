@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 import sqlite3
+from keep_alive import keep_alive
 
 # Bot setup
 intents = discord.Intents.default()
@@ -56,7 +57,8 @@ def get_manager_team(ctx):
 @bot.event
 async def on_ready():
     print(f"Bot is ready. Logged in as {bot.user}.")
-
+# Call keep_alive() before running the bot to keep it alive
+keep_alive()
 
 @bot.command()
 async def fine(ctx, member: discord.Member, amount: int, *, reason: str = "No reason provided"):
